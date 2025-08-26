@@ -1,0 +1,6 @@
+PROJECT IDEA: Make a smart grade book that calculates the score I would get in a particular subject, for students to keep track and not slip behind.
+
+User Goals:
+- use a database like SQL to store my grades or a JSON file.
+- be able to pull up my overall score to help track my education.
+- be able to add; Subjects, Homework, Assignments, Test scores.
